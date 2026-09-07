@@ -1,6 +1,6 @@
 {
   "name": "Welcome",
-  "description": "A clean application welcome header.",
+  "description": "A clean application welcome experience with Firebase Authentication and Firestore persistence.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

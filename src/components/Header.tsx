@@ -12,7 +12,7 @@ export default function Header({
   return (
     <header
       id="main-header"
-      className="w-full flex flex-col items-center justify-center text-center px-6 py-12"
+      className="w-full flex flex-col items-center justify-center text-center px-4 py-2"
     >
       <motion.div
         initial={{ opacity: 0, y: 18 }}
